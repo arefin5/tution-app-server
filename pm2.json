@@ -1,0 +1,12 @@
+{
+    "apps": [
+      {
+        "name": "server",
+        "script": "npm",
+        "args": "run start",
+        "instances": "max",
+        "exec_mode": "cluster",
+        "wait_ready": true
+      }
+    ]
+  }

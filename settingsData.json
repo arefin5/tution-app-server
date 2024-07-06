@@ -1,0 +1,29 @@
+{
+  "payKeys": {
+    "signKey": "dbb74894e82415a2f7ff0ec3a97e4183",
+    "storeId": "aamarpaytest",
+    "returnUrl": "https://tuitionappbd.com/profile",
+    "mode": "sandbox",
+    "chargeForUpgrade": "true",
+    "verificationFees": "500",
+    "tutorVerificationFees": "100",
+    "mediaVerificationFees": "300"
+  },
+  "footerLinks": {
+    "txt": "",
+    "fb": "https://www.facebook.com/tuitionappofficial/",
+    "in": "https://www.linkedin.com/company/tuition-app/",
+    "tw": "sfg",
+    "yt": "adfvf",
+    "phone": "8801518674811",
+    "ps": "https://play.google.com/store/apps/details?id=com.brogrammers.tuitionapp",
+    "as": "sfgs"
+  },
+  "sms": { "smsToken": "", "loginType": "sms", "smsId": "" },
+  "hero": {
+    "mobile": "/uploads/app/settings/img/download-app-1707165785587.svg",
+    "desktop": "/uploads/app/settings/img/download-app-(1)-1707165785591.svg",
+    "m": "/uploads/app/settings/img/content-(1)-1707166899683.svg",
+    "d": "/uploads/app/settings/img/content-(2)-1707166899685.svg"
+  }
+}
