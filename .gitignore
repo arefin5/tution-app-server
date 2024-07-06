@@ -6,8 +6,14 @@
 
 
 
-
-
+unions.json
+settingsData.json
+dashboardData.json
+policiesData.json
+districts.json
+divissions.json
+upazillas.json
+.env
 .vscode
 .vs
 # debug
